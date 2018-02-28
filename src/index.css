@@ -1,0 +1,58 @@
+body {
+  font: 75% georgia, sans-serif;
+  line-height: 1.88889;
+  color: #71f7f7;
+  margin: 0;
+  padding: 0;
+  background-color: #0a2828;
+}
+
+.wrapper {
+  width: 80%;
+  min-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  white-space: nowrap;
+  color: #23a0a0;
+}
+
+.message {
+  color: darkolivegreen;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: 2px grey solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: grey;
+  background: red;
+  font-size: 20px;
+  border-style: 2px grey solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blogClosed {
+  background-color: #34d1d1;
+  height: 30px;
+  color: #0a2828;
+  margin-bottom: 2px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.blogOpen {
+  border: 2px solid #34d1d1;
+  border-radius: 5px;
+  margin-bottom: 2px;
+}
